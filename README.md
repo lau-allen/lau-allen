@@ -43,9 +43,9 @@ Below is a list of my repositories, organized by High-Level Technical Domains th
 |  | [feature-selection-comparison](https://github.com/lau-allen/feature-selection-comparison.git) | - Feature Selection (Correlation, Mutual Information, Random Forest, Recursive Feature Elimination) | - Python Scikit-Learn, Pandas, NumPy |
 |  | [C19TableauDashboard](https://github.com/lau-allen/C19TableauDashboard.git) | - Exploratory Data Analysis | - Tableau Desktop |
 |  | [heart-attack-analysis](https://github.com/lau-allen/heart-attack-analysis.git) | - Exploratory Data Analysis | - Python Pandas, Matplotlib |
-| Other | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
-|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
-
+| Other | [python-datastructures-lib](https://github.com/lau-allen/python-datastructures-lib.git) | - Data Structures (queue, stack, binary search tree) | - Python |
+|  | [lau-allen.github.io](https://github.com/lau-allen/lau-allen.github.io.git) | - Web Development | - HTML / CSS |
+  
 </div>
 
 
