@@ -33,7 +33,8 @@ Below is a list of my repositories, organized by High-Level Technical Domains th
 |  | [winequality-classifier](https://github.com/lau-allen/winequality-classifier.git) | - Classification Modeling (KNN), Feature Selection (LASSO, Correlation) | - Python Scikit-Learn, Pandas |
 |  | [classifier-models-comparison](https://github.com/lau-allen/classifier-models-comparison.git) | - Classification Modeling (Naive Bayes, Logistic Regression, Quadradic Discriminant Analysis, Support Vector Machine, Decision Tree, KNN) | - Python Scikit-Learn, Matplotlib, Pandas |
 |  | [movie-similarity-NLP](https://github.com/lau-allen/movie-similarity-NLP.git) | - Natural Language Processing | - Python NLTK, Pandas, NumPy |
-| Big Data Analytics | [foodinsecurity-analysis](https://github.com/lau-allen/foodinsecurity-analysis.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
+| Big Data Analytics | [foodinsecurity-analysis-part2](https://github.com/lau-allen/foodinsecurity-analysis-part2.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
+|  | [foodinsecurity-analysis](https://github.com/lau-allen/foodinsecurity-analysis.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
 |  | [consumer-complaints](https://github.com/lau-allen/consumer-complaints.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
 |  | [enron-social-triangle](https://github.com/lau-allen/enron-social-triangle.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
 |  | [NYC-SAT-HS-Analysis](https://github.com/lau-allen/NYC-SAT-HS-Analysis.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
