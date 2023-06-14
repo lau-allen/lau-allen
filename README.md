@@ -19,23 +19,27 @@ I'm highly motivated by the potential of data-driven solutions to inspire innova
 
 ## My GitHub Repositories
 
-Below is a list of my repositories, grouped by the High-Level Technical Domains they demonstrate and the Tech Stack used within each project:
+Feel free to explore these repositories and learn more about the projects I've worked on. Don't have enough time to check out all these projects? Check out my personal website, [lau-allen.github.io](https://lau-allen.github.io), for example highlights of my work!
+
+Below is a list of my repositories, organized by High-Level Technical Domains they demonstrate, along with the corresponding Tech Stack used in each project. The repositories are ordered based on their significance within each domain group.
 
 <div align="center">
 
-| Domain   | Repository                   | Tech Stack             |
-|----------|------------------------------|------------------------|
-| Domain 1 | [Repository 1](link_to_repo1) | Tech 1, Tech 2, Tech 3 |
-|          | [Repository 2](link_to_repo2) | Tech 2, Tech 4, Tech 5 |
-|          | [Repository 3](link_to_repo3) | Tech 1, Tech 5, Tech 6 |
-| Domain 2 | [Repository 4](link_to_repo4) | Tech 3, Tech 4, Tech 7 |
-|          | [Repository 5](link_to_repo5) | Tech 2, Tech 5, Tech 8 |
-| Domain 3 | [Repository 6](link_to_repo6) | Tech 1, Tech 4, Tech 9 |
+| Domain   | Repository                   | Sub-Domains | Tech Stack             |
+|----------|------------------------------|------------|------------------------|
+| Machine Learning | [InHospital-Mortality-Prediction](https://github.com/lau-allen/InHospital-Mortality-Prediction.git) | - Classification Modeling (Logistic Regression, Decision Tree, KNN)<br>- Feature Selection / Dimensionality Reduction (VIF, LASSO, Random Forest) | - Python Scikit-Learn, Statsmodels, Pandas, NumPy |
+|  | [mnist-R](https://github.com/lau-allen/mnist-R.git) & [mnist-Python](https://github.com/lau-allen/mnist-python.git) | - Classification Modeling (Logistic Regression, Linear Regression)  | - R stats<br>- Python Pandas, NumPy, Scikit-Learn |
+|  | [winequality-classifier](https://github.com/lau-allen/winequality-classifier.git) | - Classification Modeling (KNN), Feature Selection (LASSO, Correlation) | - Python Scikit-Learn, Pandas |
+|  | [classifier-models-comparison](https://github.com/lau-allen/classifier-models-comparison.git) | - Classification Modeling (Naive Bayes, Logistic Regression, Quadradic Discriminant Analysis, Support Vector Machine, Decision Tree, KNN) | - Python Scikit-Learn, Matplotlib, Pandas |
+|  | [movie-similarity-NLP](https://github.com/lau-allen/movie-similarity-NLP.git) | - Natural Language Processing | - Python NLTK, Pandas, NumPy |
+| Big Data Analytics | [Repository 4](link_to_repo4) | - | Tech 3, Tech 4, Tech 7 |
+|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
+| Data Exploration & Feature Engineering | [Repository 6](link_to_repo6) | - | Tech 1, Tech 4, Tech 9 |
+|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
+|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
+| Other | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
 
 </div>
-
-Feel free to explore these repositories and learn more about the projects I've worked on.
-
 
 
 
