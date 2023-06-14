@@ -7,7 +7,7 @@
 
 # My GitHub Repositories
 
-Below is a list of my repositories, along with the High-Level Technical Domains they demonstrate and the Tech Stack used:
+Below is a list of my repositories, grouped by the High-Level Technical Domains they demonstrate and the Tech Stack used within each project:
 
 | Domain | Repository | Tech Stack |
 |--------|------------|------------|
