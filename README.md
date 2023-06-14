@@ -32,12 +32,19 @@ Below is a list of my repositories, organized by High-Level Technical Domains th
 |  | [winequality-classifier](https://github.com/lau-allen/winequality-classifier.git) | - Classification Modeling (KNN), Feature Selection (LASSO, Correlation) | - Python Scikit-Learn, Pandas |
 |  | [classifier-models-comparison](https://github.com/lau-allen/classifier-models-comparison.git) | - Classification Modeling (Naive Bayes, Logistic Regression, Quadradic Discriminant Analysis, Support Vector Machine, Decision Tree, KNN) | - Python Scikit-Learn, Matplotlib, Pandas |
 |  | [movie-similarity-NLP](https://github.com/lau-allen/movie-similarity-NLP.git) | - Natural Language Processing | - Python NLTK, Pandas, NumPy |
-| Big Data Analytics | [Repository 4](link_to_repo4) | - | Tech 3, Tech 4, Tech 7 |
-|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
-| Data Exploration & Feature Engineering | [Repository 6](link_to_repo6) | - | Tech 1, Tech 4, Tech 9 |
-|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
-|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
+| Big Data Analytics | [foodinsecurity-analysis](https://github.com/lau-allen/foodinsecurity-analysis.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
+|  | [consumer-complaints](https://github.com/lau-allen/consumer-complaints.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
+|  | [enron-social-triangle](https://github.com/lau-allen/enron-social-triangle.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
+|  | [NYC-SAT-HS-Analysis](https://github.com/lau-allen/NYC-SAT-HS-Analysis.git) | - Cloud Computing<br>- Big Data Scaling Out | - Google Cloud Dataproc & Storage<br>- Apache Spark (PySpark) |
+| Data Harvesting | [calendar-webscraping](https://github.com/lau-allen/calendar-webscraping.git) | - Web Scraping<br>- HTML Requests / Parsing | - Python Requests, BeautifulSoup, apiclient, google_auth_oauthlib<br>- Google API|
+| Data Exploration & Feature Engineering | [C19VaccineEfficacyDashboard](https://github.com/lau-allen/C19VaccineEfficacyDashboard.git) | - Exploratory Data Analysis<br>- Feature Engineering | - Python Dash, Plotly, Pandas<br> - HTML / CSS |
+|  | [songs-statistical-analysis](https://github.com/lau-allen/songs-statistical-analysis.git) | - Statistical Analysis (confidence intervals, central limit theorem, distribution modeling, hypothesis testing) | - R statsr, dplyr, ggplot2, fitdistrplus |
+|  | [manifold-learning-comparison](https://github.com/lau-allen/manifold-learning-comparison.git) | - Manifold Learning (Principal Component Analysis, Isomap Embedding, Locally Linear Embedding, Multidimensional Scaling, SpectralEmbedding, T-distributed Stochastic Neighbor Embedding | - Python Scikit-Learn, UMAP |
+|  | [feature-selection-comparison](https://github.com/lau-allen/feature-selection-comparison.git) | - Feature Selection (Correlation, Mutual Information, Random Forest, Recursive Feature Elimination) | - Python Scikit-Learn, Pandas, NumPy |
+|  | [C19TableauDashboard](https://github.com/lau-allen/C19TableauDashboard.git) | - Exploratory Data Analysis | - Tableau Desktop |
+|  | [heart-attack-analysis](https://github.com/lau-allen/heart-attack-analysis.git) | - Exploratory Data Analysis | - Python Pandas, Matplotlib |
 | Other | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
+|  | [Repository 5](link_to_repo5) | - | Tech 2, Tech 5, Tech 8 |
 
 </div>
 
