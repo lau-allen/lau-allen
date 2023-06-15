@@ -9,6 +9,8 @@ I'm highly motivated by the potential of data-driven solutions to inspire innova
 
   
 🌐 Check out my personal website: [lau-allen.github.io](https://lau-allen.github.io)
+  
+📄 Take a look at my resume to explore my qualifications and professional experience: [resume](https://github.com/lau-allen/lau-allen/blob/main/Resume.pdf)
 
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/allenlau2019/) or [email](mailto:allenlau3@outlook.com). Let's connect!
 
