@@ -4,7 +4,7 @@
   
 
 
-I'm highly motivated by the potential of data-driven solutions to inspire innovation and drive positive change in society. I have a strong passion for exploring the intricate fields of Machine Learning, Data Engineering, and Big Data, continually seeking to expand my expertise and capabilities. I actively seek engaging collaborations on stimulating projects within the domains of Machine Learning and Data Engineering.
+I'm highly motivated by the potential of data-driven solutions to inspire innovation and drive positive change in society. This drives my strong passion for exploring the intricate fields of Machine Learning, Data Engineering, and Big Data, where I am continually seeking to expand my expertise and capabilities. Let's connect on  impactful projects within the domains of Machine Learning and Data Engineering.
   
 
   
