@@ -48,7 +48,8 @@ Below is a list of my repositories, organized by High-Level Technical Domains th
 |  | [feature-selection-comparison](https://github.com/lau-allen/feature-selection-comparison.git) | - Feature Selection (Correlation, Mutual Information, Random Forest, Recursive Feature Elimination) | - Python Scikit-Learn, Pandas, NumPy |
 |  | [C19TableauDashboard](https://github.com/lau-allen/C19TableauDashboard.git) | - Exploratory Data Analysis | - Tableau Desktop |
 |  | [heart-attack-analysis](https://github.com/lau-allen/heart-attack-analysis.git) | - Exploratory Data Analysis | - Python Pandas, Matplotlib |
-| Computer Vision | [cv-stereo-and-motion](https://github.com/lau-allen/cv-stereo-and-motion.git) | - Stereo and Motion Digital Vision <br>- Epipolar Geometry <br>- Fundamental Matrix Estimation | - MATLAB |
+| Computer Vision | [kickflowtracker](https://github.com/lau-allen/kickflowtracker.git) | - Object Detection and Tracking <br>- Optical Flow | - Python NumPy, OpenCV  |
+| | [cv-stereo-and-motion](https://github.com/lau-allen/cv-stereo-and-motion.git) | - Stereo and Motion Digital Vision <br>- Epipolar Geometry <br>- Fundamental Matrix Estimation | - MATLAB |
 |  | [cv-calibration](https://github.com/lau-allen/cv-calibration.git) | - Direct Parameter Calibration <br>- Orthocenter Theorem <br>- Pinhole Camera, Vanishing Points | - MATLAB |
 |  | [cv-image-enhancement](https://github.com/lau-allen/cv-image-enhancement.git) | - Image Histogram Operations <br>- Edge Detection | - Python |
 |  | [cv-image-basics](https://github.com/lau-allen/cv-image-basics.git) | - Pinhole and Thin Lens Camera Models <br>- Basic Image Operations | - MATLAB |
